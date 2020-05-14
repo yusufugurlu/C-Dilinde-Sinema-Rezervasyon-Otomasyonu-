@@ -1,0 +1,7 @@
+1  Esaretin&bedeli  1  Frank-Darabont  135
+2  baba  1  Francis-Ford-Coppola  100
+3  Kara&Sovalye  2  Christopher-Nolan  150
+4  12-ofkeli&adam  3  Sidney-Lumet  130
+5  ucuz&romam   2  Quentin-Tarantino  100
+6  Dovus&Kulubu  2  David-Fincher  120
+
